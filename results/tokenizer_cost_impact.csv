@@ -1,0 +1,19 @@
+category,tokenizer,n_tokens,cost_usd_at_reference_price,cost_usd_at_native_price,fragmentation_ratio_vs_english
+English (prose),GPT-4o (tiktoken/cl100k_base),66,0.000165,0.000165,1.0
+English (prose),Llama 3 (128k BPE),66,0.000165,1.32e-05,1.0
+English (prose),mT5 (multilingual SentencePiece),85,0.00021250000000000002,0.00021250000000000002,1.0
+"Hindi (prose, same meaning)",GPT-4o (tiktoken/cl100k_base),361,0.0009025,0.0009025,5.557446118943445
+"Hindi (prose, same meaning)",Llama 3 (128k BPE),184,0.00046,3.68e-05,2.832604116026576
+"Hindi (prose, same meaning)",mT5 (multilingual SentencePiece),148,0.00037,0.00037,1.7691097829506135
+"Swahili (prose, same meaning)",GPT-4o (tiktoken/cl100k_base),157,0.0003925,0.0003925,2.2319491208380096
+"Swahili (prose, same meaning)",Llama 3 (128k BPE),154,0.000385,3.08e-05,2.1893004115226335
+"Swahili (prose, same meaning)",mT5 (multilingual SentencePiece),117,0.0002925,0.0002925,1.291503267973856
+Python (code),GPT-4o (tiktoken/cl100k_base),137,0.00034250000000000003,0.00034250000000000003,1.546642899584076
+Python (code),Llama 3 (128k BPE),137,0.00034250000000000003,2.7400000000000002e-05,1.546642899584076
+Python (code),mT5 (multilingual SentencePiece),160,0.0004,0.0004,1.4025374855824682
+"Legal (English, domain)",GPT-4o (tiktoken/cl100k_base),102,0.00025499999999999996,0.00025499999999999996,1.1768992530515576
+"Legal (English, domain)",Llama 3 (128k BPE),102,0.00025499999999999996,2.04e-05,1.1768992530515576
+"Legal (English, domain)",mT5 (multilingual SentencePiece),134,0.000335,0.000335,1.2005186844276787
+"Medical (English, domain)",GPT-4o (tiktoken/cl100k_base),79,0.0001975,0.0001975,1.157375279512684
+"Medical (English, domain)",Llama 3 (128k BPE),78,0.000195,1.56e-05,1.1427249595188524
+"Medical (English, domain)",mT5 (multilingual SentencePiece),96,0.00024,0.00024,1.0920520880107767

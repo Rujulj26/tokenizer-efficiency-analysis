@@ -1,0 +1,6 @@
+tiktoken
+transformers
+sentencepiece
+pandas
+numpy
+matplotlib

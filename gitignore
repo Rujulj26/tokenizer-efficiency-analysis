@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Downloaded tokenizer files if you cache them locally
+.cache/
+*.tiktoken
